@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GamersplayMC.aternos.me",
+    "ip": "GamersplayMC.aternos.me:62793",
     "port": 62793,
     "version": "",
     "try-creative": false
